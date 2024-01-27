@@ -55,5 +55,3 @@ This project aims to predict the likelihood of a person's survival based on vari
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this README with additional details or sections as per your preference!
